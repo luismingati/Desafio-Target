@@ -4,4 +4,4 @@ Primeiramente voce liga o primeiro interruptor e deixa ele ligada por um tempo.
 Depois do tempo ter passado voce desliga este interruptor e liga o 2.
 Vai para a sala das lampadas e veja qual delas está acesa. Esta é controlada pelo interruptor 2.
 Depois toca em uma das lampadas que nao esta acesa. Se ela estiver quente ela é controlada pelo interruptor 1.
-Caso contrário ela é controlada pelo interruptor 2.
+Caso contrário ela é controlada pelo interruptor 3.
